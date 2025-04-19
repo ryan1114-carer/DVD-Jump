@@ -1,2 +1,2 @@
-# DVD-Jump
-Press DVD logo Will bounce，Press"🏴"Will remake
+# use illustrate
+Press DVD logo Will bounce
